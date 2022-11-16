@@ -12,3 +12,6 @@ ALIGNMENT SIZE=Number of sequences used to generate the consensus sequences.
 
 Consensus sequences construction workflow:  
 1. 
+
+
+Species and accession/source of genome assembly:
