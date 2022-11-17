@@ -10,7 +10,7 @@ AUT=Consensus sequences with both Reverse Transcriptase (RVT) and Endonuclease d
 RVT=Consensus sequences missing the EN domain.  
 LINE CLADE=LINE clade following [Kapitonov et al., (2009)](https://pubmed.ncbi.nlm.nih.gov/19651192/). L2-2 Clade correspond to L2A, L2B, Crack and Daphne clades.  
 
-Consensus sequences construction workflow:  
+### Consensus sequences construction workflow:  
 1. RepeatMasker annotation of TE using an automatically generated library (with RepeatModeler).  
 2. Extension, Extraction and transaltion of all annotated insertions (min ORF length = 300 aa).  
 3. Selection of all ORFs with a significant hmmscan hit (e-value < 0.05) against LINE-specific RVT HMM profiles.  
@@ -20,7 +20,7 @@ Consensus sequences construction workflow:
 7. Consensus construction using EMBOSS cons (plurality of 3) and manual validation and curation.  
 
 
-Accession numbers/sources of genome assemblies:  
+### Accession numbers/sources of genome assemblies:  
 
 - *Potamilus streckersoni*  GCA_016746295.1  
 - *Megalonaias nervosa* GCA_016617855.1  
