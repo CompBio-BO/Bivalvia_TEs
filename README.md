@@ -17,7 +17,7 @@ Collection of manually curated LINE consensus sequences extracted from bivalve g
 4. Clustering of all ORF nucleotide sequecens following the 80-80 rule.  
 5. Identification of clusters with at least 5 members and one of them showing both RVT and EN domains on the same ORF.  
 6. Back blastn of each rapresentative sequence against the genome (min 70% identity and coverage), extension and extraction of all hits.  
-7. Consensus construction using EMBOSS cons (plurality of 3) and manual validation and curation.  
+7. Consensus construction using EMBOSS *cons* (plurality of 3) followed by manual curation and validation.  
 
 
 ### Accession numbers/sources of genome assemblies:  
