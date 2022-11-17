@@ -20,7 +20,8 @@ Consensus sequences construction workflow:
 7. Consensus construction using EMBOSS cons (plurality of 3) and manual validation and curation.  
 
 
-Species and accession/source of genome assembly:
+Species and accession/source of genome assembly:  
+
 *Potamilus streckersoni*  GCA_016746295.1  
 *Megalonaias nervosa* GCA_016617855.1  
 *Solen grandis*  GCA_021229015.1  
