@@ -14,10 +14,11 @@ Collection of manually curated LINE consensus sequences extracted from bivalve g
 1. RepeatMasker annotation of TE using an automatically generated library (with RepeatModeler).  
 2. Extension, Extraction and transaltion of all annotated insertions (min ORF length = 300 aa).  
 3. Selection of all ORFs with a significant hmmscan hit (e-value < 0.05) against LINE-specific RVT HMM profiles.  
-4. Clustering of all ORF nucleotide sequecens following the 80-80 rule.  
+4. Clustering of all ORF nucleotide sequecens following the 80-80 rule (CD-HIT).  
 5. Identification of clusters with at least 5 members and at least one sequence showing both RVT and EN domains on the same ORF (i.e autonomous element).  
 6. Back blastn of each rapresentative sequence against the genome (min 70% identity and coverage), extension and extraction of all hits.  
 7. Consensus construction using EMBOSS *cons* (plurality of 3) followed by manual curation and validation.  
+8. Merging all libraries and reduce redundancy (CD-HIT; 80-80 rule)
 
 
 ### Accession numbers/sources of genome assemblies:  
