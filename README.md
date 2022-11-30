@@ -1,5 +1,5 @@
 # Bivalvia_LINEs
-Collection of manually curated LINE consensus sequences extracted from bivalve genomes
+Collection of manually curated LINE consensus sequences extracted from bivalve genomes and that likely corrrespond to families that mantain tranposition ability.
 
 ### Format:
 
