@@ -3,12 +3,8 @@ Collection of manually curated LINE consensus sequences extracted from bivalve g
 
 ### Format:
 
-```<SPECIES NAME>_<PROGRESSIVE NUMBER>_cons_<AUT|RVT>#<RepeatMasker classification> <LINE CLADE>```  
+```<SPECIES NAME>_<PROGRESSIVE NUMBER>_cons_<AUT|RVT>#<RepeatMasker classification>```  
 *e.g:* A.i.concentricus_9_cons_AUT#LINE/CR1-Zenon CR1 7
-
-- AUT=Consensus sequences with both Reverse Transcriptase (RVT) and Endonuclease domain (EN) (NB: They can be in different ORFs).  
-- RVT=Consensus sequences missing the EN domain.  
-- LINE CLADE=LINE clade following [Kapitonov et al., (2009)](https://pubmed.ncbi.nlm.nih.gov/19651192/). L2-2 Clade correspond to L2A, L2B, Crack and Daphne clades.  
 
 ### Consensus sequences construction workflow:  
 1. RepeatMasker annotation of TE using an automatically generated library (with RepeatModeler).  
