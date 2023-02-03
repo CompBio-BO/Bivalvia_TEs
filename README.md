@@ -3,7 +3,7 @@ Collection of manually curated LINE consensus sequences extracted from bivalve g
 
 ### Format:
 
-```<SPECIES NAME>_<PROGRESSIVE NUMBER>_cons_<AUT|RVT>#<RepeatMasker classification>```  
+```LINE_<SPECIES NAME>_<PROGRESSIVE NUMBER>_cons#<RepeatMasker classification>```  
 *e.g:* A.i.concentricus_9_cons_AUT#LINE/CR1-Zenon CR1 7
 
 ### Consensus sequences construction workflow:  
