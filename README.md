@@ -50,5 +50,5 @@ For SINEs elements we selected 12 species for in-depth SINEs annotation using SI
 - *Bathymodiolus platifrons* https://datadryad.org/stash/dataset/doi:10.5061/dryad.h9942  
 
 **IMPORTANT**
-The RepeatMasker formatted-style classification was automatically generated using RepeatClassifier from the RepeatModeler package and can therefore be innacurate. If you have any correction to suggest please write to jacopo.martelossi2@unibo.it
+The RepeatMasker formatted-style classification was automatically generated using RepeatClassifier from the RepeatModeler package and can therefore be innacurate. If you have any correction to suggest please contact jacopo.martelossi2@unibo.it
 
