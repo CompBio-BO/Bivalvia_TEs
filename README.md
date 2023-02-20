@@ -17,7 +17,7 @@ Collection of manually curated LINEs, SINEs and DDE/D-related consensus sequence
 8. Merging all libraries and reduce redundancy (CD-HIT; 80-80 rule)
 
 ## Consensus sequences construction workflow (SINEs):  
-For SINEs elements we selected 12 species for in-depth SINEs annotation using SINE_Scan. SINEs candidates resulting from RepeatModeler and SINE_Scan were subjected to a "Blast-Extend-Extract" process to identify boundaries of the elements and confirm the presence of a 3' tRNA-related head, a conserved domain and a 5' tail.
+For SINEs elements we selected 12 species for in-depth SINEs annotation using SINE_Scan. SINEs candidates resulting from RepeatModeler and SINE_Scan were merged and subjected to a "Blast-Extend-Extract" process to identify boundaries of the elements and confirm the presence of a 3' tRNA-related head, a conserved domain and a 5' tail.
 
 ### Accession numbers/sources of genome assemblies:  
 
