@@ -19,30 +19,30 @@ Collection of manually curated LINEs, SINEs and DDE/D-related consensus sequence
 
 ### Accession numbers/sources of genome assemblies:  
 
-- *Potamilus streckersoni*  GCA_016746295.1  
-- *Megalonaias nervosa* GCA_016617855.1  
-- *Solen grandis*  GCA_021229015.1  
-- *Sinonovacula constricta*  GCA_007844125.1  
+- *Potamilus streckersoni*  GCA_016746295.1 (NCBI).  
+- *Megalonaias nervosa* GCA_016617855.1 (NCBI).  
+- *Solen grandis*  GCA_021229015.1 (NCBI).  
+- *Sinonovacula constricta*  GCA_007844125.1 (NCBI).  
 - *Dreissena rostriformis* https://phaidra.univie.ac.at/view/o:980132  
-- *Archivesica marissinica*  GCA_014843695.1  
-- *Cyclina sinensis* GCA_012932295.1  
-- *Mercenaria mercenaria*  GCA_014805675.1  
-- *Ruditapes philippinarum* 
-- *Anadara kagoshimensis* GCA_021292105.1  
+- *Archivesica marissinica*  GCA_014843695.1 (NCBI).  
+- *Cyclina sinensis* GCA_012932295.1 (NCBI).  
+- *Mercenaria mercenaria*  GCA_014805675.1  (NCBI).  
+- *Ruditapes philippinarum* GCA_026571515.1 (NCBI).  
+- *Anadara kagoshimensis* GCA_021292105.1 (NCBI).  
 - *Scapharca broughtonii* http://dx.doi.org/10.5524/100607  
-- *Tegillarca granosa*  GCA_013375625.1  
-- *Myzuhopecten yessoensis*  GCF_002113885.1  
+- *Tegillarca granosa*  GCA_013375625.1 (NCBI).  
+- *Myzuhopecten yessoensis*  GCF_002113885.1 (NCBI).  
 - *Chlamys farreri* http://mgbase.qnlm.ac/home  
-- *Pecten maximus*  GCF_902652985.1  
+- *Pecten maximus*  GCF_902652985.1 (NCBI).  
 - *Argopecten irradians concentricus*  https://datadryad.org/stash/dataset/doi:10.5061/dryad.hdr7sqvdr  
 - *Argopecten purpuratus* http://mgbase.qnlm.ac/home  
 - *Pinctada fucata* http://gigadb.org/dataset/100240  
 - *Saccostrea glomerata* http://soft.bioinfo-minzhao.org/srog  
-- *Crassostrea virginica*  GCF_002022765.2  
-- *Crassostrea ariakensis* GCA_020567875.1  
-- *Crassostrea gigas*  GCF_902806645.1  
-- *Mytilus coruscus* GCA_017311375.1  
-- *Mytilus edulis* GCA_019925275.1  
+- *Crassostrea virginica*  GCF_002022765.2 (NCBI).  
+- *Crassostrea ariakensis* GCA_020567875.1 (NCBI).  
+- *Crassostrea gigas*  GCF_902806645.1 (NCBI).  
+- *Mytilus coruscus* GCA_017311375.1 (NCBI).  
+- *Mytilus edulis* GCA_019925275.1 (NCBI).  
 - *Limnoperna fortunei*  http://gigadb.org/dataset/100386  
 - *Modiolus philippinarum* https://datadryad.org/stash/dataset/doi:10.5061/dryad.h9942  
 - *Bathymodiolus platifrons* https://datadryad.org/stash/dataset/doi:10.5061/dryad.h9942  
