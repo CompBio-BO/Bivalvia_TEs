@@ -9,7 +9,7 @@ Collection of manually curated LINEs, SINEs and DDE/D-related consensus sequence
 ### Consensus sequences construction workflow:  
 1. RepeatMasker annotation of TE using an automatically generated library (with RepeatModeler).  
 2. Extension, Extraction and transaltion of all annotated insertions (min ORF length = 300 aa).  
-3. Selection of all ORFs with a significant hmmscan hit (e-value < 0.05) against LINE-specific RVT HMM profiles or against DDE/D-related MM profiles (specific for each DDE/D superfamily, as described in [Yuan and Wessler, (2011](https://www.pnas.org/doi/10.1073/pnas.1104208108))).  
+3. Selection of all ORFs with a significant hmmscan hit (e-value < 0.05) against LINE-specific RVT HMM profiles or against DDE/D-related HMM profiles (specific for each DDE/D superfamily, as described in [Yuan and Wessler, (2011](https://www.pnas.org/doi/10.1073/pnas.1104208108))).  
 4. Clustering of all ORF nucleotide sequecens following the 80-80 rule (CD-HIT).  
 5. Identification of clusters with at least 5 members (for LINEs we also required that at least one sequence posses both RVT and EN domains on the same ORF) 
 6. Back blastn of each rapresentative sequence against the genome (min 70% identity and coverage), extension and extraction of all hits.  
