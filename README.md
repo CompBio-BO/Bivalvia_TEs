@@ -7,7 +7,7 @@ Collection of manually curated LINEs, SINEs and DDE/D-related consensus sequence
 *e.g:* LINE_A.i.concentricus_9_cons#LINE/CR1-Zenon
 
 ### Consensus sequences construction workflow (LINEs and DDE/D transposons):  
-1. RepeatMasker annotation of TE using species-specific automatically generated library.  
+1. RepeatMasker annotation of TE using species-specific automatically generated libraries.  
 2. Extension, Extraction and transaltion of all annotated insertions (min ORF length = 300 aa).  
 3. Selection of all ORFs with a significant hmmscan hit (e-value < 0.05) against LINE-specific RVT HMM profiles or against DDE/D-related HMM profiles (specific for each DDE/D superfamily, as described in [Yuan and Wessler, (2011](https://www.pnas.org/doi/10.1073/pnas.1104208108))).  
 4. Clustering of all ORF nucleotide sequecens following the 80-80 rule (CD-HIT).  
